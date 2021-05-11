@@ -20,9 +20,12 @@ The language itself can be demonstrated in the TypeScript playground. The Expres
 
 Key takeaways:
 - Writing a web server is a matter of five minutes if you're ready to use JavaScript!
+
+- If time allows: How to deploy an Angular application to the web server?
   
 - Quick introduction to TypeScript
   - Data types
+  - if, for, while, and what's the point of a triple `===`?
   - Json objects
   - Classes, methods, attributes
   - Inheritance and class hierarchies (optional)
@@ -31,6 +34,7 @@ Key takeaways:
   - Functional programming with TypeScript
   - Interfaces (especially if Java developers are attending)
   - Type inference
+  - JavaScript's approach to truth and truthyness
 
 - If time allows: TypeScript configuration
   - forbidding `any` and `undefined`
