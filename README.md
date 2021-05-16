@@ -13,6 +13,7 @@ Key takeaways:
 
 Let's do something unexpected. This course need a server. The Express framework makes this very simple. Along the way, you'll learn a lot about TypeScript.
 
+
 The language itself can be demonstrated in the TypeScript playground. The Express application is going to serve the lists of countries and continents provided by https://restcountries.eu/, so it's a good starting point to demonstrate
 - JSON
 - functional programming
@@ -25,6 +26,7 @@ Key takeaways:
   
 - Quick introduction to TypeScript
   - Data types
+  - Three kinds of string delimiters: "" vs. '' vs. ``
   - if, for, while, and why should I use a triple `===`?
   - JSON objects
   - Classes, methods, attributes
@@ -35,6 +37,7 @@ Key takeaways:
   - Interfaces (especially if Java developers are attending)
   - Type inference
   - JavaScript's approach to truth and truthyness
+  - import and export
 
 - If time allows: TypeScript configuration
   - forbidding `any` and `undefined`
